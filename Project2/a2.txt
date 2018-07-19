@@ -1,0 +1,11 @@
+Assignment 2 - Texture Mapping 
+
+Controls:
+1) To change the ground back to the leaf pattern and the bunny to another texture:
+   Press t. One texture is the normal leaf ground, and the other flickers with time. 
+2) When you press space bar:
+   The bunny moves in one direction and the cube rotates in the opposite direction 
+   The face of the bunny also distorts through modifications in the fragment shader
+   The faces of the cube were mapped from a single texture that had these 4 icons
+
+
