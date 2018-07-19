@@ -1,0 +1,22 @@
+Priyanka Pai
+Student ID: 004483612
+
+External Resources:
+
+https://cs.wellesley.edu/~cs307/readings/05-nested-transforms.html
+https://en.wikipedia.org/wiki/Web_colors
+https://www.google.com/search?biw=1418&bih=738&tbm=isch&sa=1&ei=OyRpWo-6MoO6jwPIxJqIDw&q=horse+poses&oq=horse+poses&gs_l=psy-ab.3..0l3j0i30k1j0i5i30k1j0i8i30k1l3j0i24k1.989249.991896.0.992038.15.14.0.0.0.0.132.1121.11j3.14.0....0...1c.1.64.psy-ab..5.10.670...0i67k1.0.Idj9O6F_5y4#imgrc=qgpoZADJZV-m-M:
+https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/
+
+
+
+Functions of the centaur:
+On pressing:
+0 -> Front legs raised
+1 -> Hind legs raised
+2 -> Mid run pose
+3 -> Walk animation
+4 -> Reset to rest pose
+5 -> Balanced on front leg pose
+
+This project was based on modeling. We had to create the legs and joints of the centaur using basic geometry. Then we had to create different poses and animate it. However, each component of the leg had to be animated using matrix multiplication. 
